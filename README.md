@@ -6,7 +6,7 @@ https://git-scm.com/download/win
 2. run the following commands in cmd (e.g.):
 git config --global user.name "Jonathan Kouchly"
 git config --global user.email "nonkiponk@gmail.com"
-3. open the cmd and move to the nlp hw directory, then clone this repo, run:
+3. open the cmd and move to the social_choice_project directory, then clone this repo, run:
 git clone """"***Enter Git Clone Here""""
 it might ask you to authenticate, if it does then your github password isn't gonna work. You'll have to generate a token on github and use it instead of the password. In order to generate a token you need to go to settings->developer settings->something token something. Make sure you copy it because you're only gonna see the token once.
 4. start working and don't forget to commit and push whenever you're done
