@@ -21,6 +21,6 @@ git fetch origin,
 git reset --hard origin/main,
 git pull origin main
 
-good luck
+good luck!
 
 
